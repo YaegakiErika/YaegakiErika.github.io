@@ -3,11 +3,11 @@
   <title>Le volume sur été</title>
   
   
-  <link href="http://yaegakierika.github.io/atom.xml" rel="self"/>
+  <link href="http://yaegaki.cc/atom.xml" rel="self"/>
   
-  <link href="http://yaegakierika.github.io/"/>
+  <link href="http://yaegaki.cc/"/>
   <updated>2022-03-27T16:47:45.966Z</updated>
-  <id>http://yaegakierika.github.io/</id>
+  <id>http://yaegaki.cc/</id>
   
   <author>
     <name>Yaegaki</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>【自购分享】Rewrite 10th memorial Arrange Album &#39;Forestia&#39;(1411kbps/wav)</title>
-    <link href="http://yaegakierika.github.io/2022/03/27/001Rewrite/"/>
-    <id>http://yaegakierika.github.io/2022/03/27/001Rewrite/</id>
+    <link href="http://yaegaki.cc/2022/03/27/001Rewrite/"/>
+    <id>http://yaegaki.cc/2022/03/27/001Rewrite/</id>
     <published>2022-03-27T15:43:17.000Z</published>
     <updated>2022-03-27T16:47:45.966Z</updated>
     
@@ -33,21 +33,21 @@
     
     
     
-    <category term="分享" scheme="http://yaegakierika.github.io/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="http://yaegaki.cc/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="Galgame" scheme="http://yaegakierika.github.io/tags/Galgame/"/>
+    <category term="Galgame" scheme="http://yaegaki.cc/tags/Galgame/"/>
     
-    <category term="Rewrite" scheme="http://yaegakierika.github.io/tags/Rewrite/"/>
+    <category term="Rewrite" scheme="http://yaegaki.cc/tags/Rewrite/"/>
     
-    <category term="CD" scheme="http://yaegakierika.github.io/tags/CD/"/>
+    <category term="CD" scheme="http://yaegaki.cc/tags/CD/"/>
     
   </entry>
   
   <entry>
     <title>Test</title>
-    <link href="http://yaegakierika.github.io/2022/03/27/ceshi/"/>
-    <id>http://yaegakierika.github.io/2022/03/27/ceshi/</id>
+    <link href="http://yaegaki.cc/2022/03/27/ceshi/"/>
+    <id>http://yaegaki.cc/2022/03/27/ceshi/</id>
     <published>2022-03-27T10:49:06.000Z</published>
     <updated>2022-03-27T12:22:43.305Z</updated>
     
@@ -61,17 +61,17 @@
     
     
     
-    <category term="Test" scheme="http://yaegakierika.github.io/categories/Test/"/>
+    <category term="Test" scheme="http://yaegaki.cc/categories/Test/"/>
     
     
-    <category term="Test" scheme="http://yaegakierika.github.io/tags/Test/"/>
+    <category term="Test" scheme="http://yaegaki.cc/tags/Test/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yaegakierika.github.io/2022/03/25/hello-world/"/>
-    <id>http://yaegakierika.github.io/2022/03/25/hello-world/</id>
+    <link href="http://yaegaki.cc/2022/03/25/hello-world/"/>
+    <id>http://yaegaki.cc/2022/03/25/hello-world/</id>
     <published>2022-03-25T14:55:59.217Z</published>
     <updated>2022-03-25T14:55:59.218Z</updated>
     
