@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Test</title>
+    <url>/2022/03/27/ceshi/</url>
+    <content><![CDATA[<h2 id="picture-test"><a href="#picture-test" class="headerlink" title="picture test"></a>picture test</h2><p>外链图片 <img src="https://files.catbox.moe/tloja4.jpg" alt="1"></p>
+<p>外链图片 <img src="https://s1.imagehub.cc/images/2022/03/27/IMG_5191.jpg" alt="4"></p>
+<p>本地图片 <img src="/.cc//1645707368799.png" alt="2"></p>
+<p>本地图片 <img src="/.cc//Blog\source_posts\ceshi\20211129_211659.jpg" alt="3"></p>
+]]></content>
+      <categories>
+        <category>Test</category>
+      </categories>
+      <tags>
+        <tag>Test</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2022/03/25/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
